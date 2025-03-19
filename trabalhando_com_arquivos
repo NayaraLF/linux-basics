@@ -3,3 +3,16 @@
 date # exibição da data e hora
 
 clear # limpar a tela
+
+#navegação de arquivos
+
+pdw #mostra o diretorio
+
+cd / #mudar o diretorio para root
+
+ls   #lista os arquivos do diretorio
+
+cd /var  #abrir diretorio
+
+cd .. #voltar um diretorio anterior
+
