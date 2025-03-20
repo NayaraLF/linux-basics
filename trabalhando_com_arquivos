@@ -16,3 +16,16 @@ cd /var  #abrir diretorio
 
 cd .. #voltar um diretorio anterior
 
+ls | more # faz uma lista dos arquivos
+
+ctrl + c # para voltar da lista (fechar a execução)
+
+#para listar os todos os arquivos que começem com uma letra por exemplo ls p*
+
+touch arquivo1.txt  #criar arquivos
+
+
+
+ls ?
+
+
