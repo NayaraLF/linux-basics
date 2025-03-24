@@ -25,7 +25,16 @@ ctrl + c # para voltar da lista (fechar a execução)
 touch arquivo1.txt  #criar arquivos
 
 
-
 ls ?
+
+ls /sys #localizar os arquivos dentro do diretotio sys
+
+cd /home
+ls
+find -name arq* #bucar pelo nome do arquivo
+
+
+
+
 
 
